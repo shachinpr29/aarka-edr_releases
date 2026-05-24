@@ -1,3 +1,2 @@
-# cyberwave-edr_releases
-# CyberWave EDR Releases
-Download the latest CyberWave EDR from the Releases section.
+# aarka edr releases
+Download the latest aarka edr from the Releases section.
